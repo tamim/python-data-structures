@@ -11,7 +11,6 @@ layout: home
 
   <div class="landing-actions">
     <a class="landing-button landing-button-primary" href="{{ '/tutorial-01/' | relative_url }}">Start with Tutorial 1</a>
-    <a class="landing-button landing-button-secondary" href="{{ '/full-series/' | relative_url }}">Read the Full Series</a>
   </div>
 </section>
 
@@ -95,7 +94,3 @@ layout: home
     </span>
   </a>
 </div>
-
-## Full Text
-
-If you want the complete series in one page, read [Full Tutorial Series]({{ '/full-series/' | relative_url }}).

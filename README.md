@@ -35,8 +35,3 @@ The core message running through the tutorials is this:
 5. [Tutorial 5: `defaultdict` for Cleaner Patterns](tutorial-05-defaultdict-for-cleaner-patterns.md)
 6. [Tutorial 6: Choosing the Right Tool Before You Code](tutorial-06-choosing-the-right-tool-before-you-code.md)
 
-## Full Text
-
-The full series in one file is available here:
-
-[full-tutorial-series.md](full-tutorial-series.md)
