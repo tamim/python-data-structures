@@ -1,3 +1,7 @@
+---
+title: Tutorial 6: Choosing the Right Tool Before You Code
+---
+
 # Tutorial 6: Choosing the Right Tool Before You Code
 
 ## 1. What this tutorial is about

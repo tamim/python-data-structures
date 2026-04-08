@@ -1768,3 +1768,6 @@ Suggested answers:
 2. Membership or seen-before tracking. That should suggest a set, often with tuples like `(r, c)`.
 3. Because one value may need to link to many positions, which is dictionary-shaped rather than sequence-shaped. `defaultdict(list)` is a clean fit.
 4. “Am I using awkward list code because I chose the wrong tool?”
+---
+title: Full Tutorial Series
+---

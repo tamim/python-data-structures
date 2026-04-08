@@ -1,3 +1,7 @@
+---
+title: Tutorial 3: Sets for Membership and Seen-Before Problems
+---
+
 # Tutorial 3: Sets for Membership and Seen-Before Problems
 
 ## 1. What this tutorial is about

@@ -1,3 +1,7 @@
+---
+title: Tutorial 5: defaultdict for Cleaner Patterns
+---
+
 # Tutorial 5: `defaultdict` for Cleaner Patterns
 
 ## 1. What this tutorial is about
