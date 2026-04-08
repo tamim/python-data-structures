@@ -1,39 +1,32 @@
 # Choosing the Right Data Structure in Python
 
-A short tutorial series for Python learners, especially competitive programming students, who know list, set, and dictionary syntax but still overuse lists.
+A short tutorial series for Python learners and competitive programming students who know the syntax of lists, sets, and dictionaries, but want better judgement about when to use each one.
 
-This repo is not mainly about teaching syntax from zero. It is about improving judgement: noticing what a problem is really asking you to do, then choosing the data structure that fits.
+This series is not mainly about learning more methods.
 
-## Why This Series Exists
+It is about learning to pause, name the real task, and choose the structure that fits.
 
-Many students can write Python code that works on small examples, but still reach for a list when the real task is:
+Many students write list-based code because lists feel familiar. Sometimes that works well. Sometimes it leads to awkward code, hidden repeated work, and slow solutions that break down on larger inputs.
 
-- membership
-- counting
-- lookup
-- grouping
-- tracking seen values
-
-That often leads to code that is more awkward, slower, and harder to reason about than it needs to be.
-
-The goal of this series is to build a better habit:
+The central habit of the series is simple:
 
 **before writing code, identify the real job first.**
 
-## Who It Is For
+## About This Series
+
+This series is written for:
 
 - Python learners
 - middle and secondary school students
 - self-study students preparing for competitive programming
-- anyone who knows the basics of lists, sets, and dictionaries, but wants better problem-solving instinct
+- readers who already know the basics of lists, sets, and dictionaries, but want stronger problem-solving instinct
 
-## Core Idea
+The core message running through the tutorials is this:
 
-The problem is not always your code.
+> The problem is not always your code.  
+> Sometimes the real problem is the data structure you chose.
 
-Sometimes the real problem is the data structure you chose.
-
-## Tutorial List
+## Table of Contents
 
 1. [Tutorial 1: What Lists Are Actually For](tutorial-01-what-lists-are-actually-for.md)
 2. [Tutorial 2: A List Crime Scene: When Familiar Code Leads to TLE](tutorial-02-a-list-crime-scene-when-familiar-code-leads-to-tle.md)
@@ -42,6 +35,8 @@ Sometimes the real problem is the data structure you chose.
 5. [Tutorial 5: `defaultdict` for Cleaner Patterns](tutorial-05-defaultdict-for-cleaner-patterns.md)
 6. [Tutorial 6: Choosing the Right Tool Before You Code](tutorial-06-choosing-the-right-tool-before-you-code.md)
 
-## Full Series
+## Complete Text
 
-If you want the combined version in one file, see [full-tutorial-series.md](full-tutorial-series.md).
+The full series in one file is available here:
+
+[full-tutorial-series.md](full-tutorial-series.md)
