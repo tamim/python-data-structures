@@ -2,8 +2,6 @@
 title: Choosing the Right Data Structure in Python
 ---
 
-# Choosing the Right Data Structure in Python
-
 *A short tutorial series about judgement, problem-solving, and choosing the right structure before you code.*
 
 This series is for Python learners and competitive programming students who already know the syntax of lists, sets, and dictionaries, but want stronger instinct about when to use each one.

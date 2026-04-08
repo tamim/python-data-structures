@@ -2,8 +2,6 @@
 title: Tutorial 3: Sets for Membership and Seen-Before Problems
 ---
 
-# Tutorial 3: Sets for Membership and Seen-Before Problems
-
 ## 1. What this tutorial is about
 
 In the last tutorial, the main lesson was that list-based code can look fine and still lead to slow contest solutions.

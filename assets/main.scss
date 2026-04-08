@@ -1,0 +1,57 @@
+---
+---
+
+@import "minima";
+
+.site-header {
+  border-top: 0;
+}
+
+.site-title {
+  font-size: 1.5rem;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+.page-content {
+  padding: 2.5rem 0 4rem;
+}
+
+.wrapper {
+  max-width: 860px;
+}
+
+.post-title,
+.page-heading {
+  font-size: 2.6rem;
+  line-height: 1.15;
+  letter-spacing: -0.03em;
+  margin-bottom: 1.25rem;
+}
+
+.post-content {
+  font-size: 1.15rem;
+  line-height: 1.8;
+}
+
+.post-content h2 {
+  margin-top: 2.5rem;
+  font-size: 1.7rem;
+}
+
+.post-content h3 {
+  margin-top: 1.75rem;
+  font-size: 1.25rem;
+}
+
+.post-content p,
+.post-content ul,
+.post-content ol,
+.post-content blockquote,
+.post-content pre {
+  margin-bottom: 1.1rem;
+}
+
+.post-content code {
+  font-size: 0.95em;
+}

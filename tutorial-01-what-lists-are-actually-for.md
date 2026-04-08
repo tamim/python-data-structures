@@ -2,8 +2,6 @@
 title: Tutorial 1: What Lists Are Actually For
 ---
 
-# Tutorial 1: What Lists Are Actually For
-
 If you already know Python lists, it is easy to use them for almost everything.
 
 That is normal. Lists are usually the first data structure students learn well, so they become the default choice.

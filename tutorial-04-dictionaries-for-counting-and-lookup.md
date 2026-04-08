@@ -2,8 +2,6 @@
 title: Tutorial 4: Dictionaries for Counting and Lookup
 ---
 
-# Tutorial 4: Dictionaries for Counting and Lookup
-
 ## 1. What this tutorial is about
 
 So far in this series, the main message has been:

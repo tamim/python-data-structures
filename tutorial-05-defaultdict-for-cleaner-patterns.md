@@ -2,8 +2,6 @@
 title: Tutorial 5: defaultdict for Cleaner Patterns
 ---
 
-# Tutorial 5: `defaultdict` for Cleaner Patterns
-
 ## 1. What this tutorial is about
 
 In the last tutorial, the main lesson was that dictionaries are a natural tool for counting, lookup, and position tracking.

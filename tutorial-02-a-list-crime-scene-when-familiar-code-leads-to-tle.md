@@ -2,8 +2,6 @@
 title: Tutorial 2: A List Crime Scene: When Familiar Code Leads to TLE
 ---
 
-# Tutorial 2: A List Crime Scene: When Familiar Code Leads to TLE
-
 ## 1. What this tutorial is about
 
 In Tutorial 1, the goal was to be fair to lists.
