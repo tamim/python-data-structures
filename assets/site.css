@@ -344,6 +344,18 @@ blockquote {
   margin-top: 2.5rem;
 }
 
+.site-footer-note {
+  margin-top: 3rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid #e7e5e4;
+  color: #4b5563;
+  font-size: 0.98rem;
+}
+
+.site-footer-note p {
+  margin: 0;
+}
+
 @media screen and (max-width: 760px) {
   .site-header-inner {
     align-items: flex-start;

@@ -5,6 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ site.title }}</title>
     <meta name="description" content="{{ site.description }}">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; script-src 'self'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'">
+    <meta name="referrer" content="strict-origin">
     <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}">
   </head>
   <body>
@@ -19,6 +21,10 @@
         <article class="page-content">
           {{ content }}
         </article>
+
+        <footer class="site-footer-note">
+          <p>Questions, corrections, or suggestions? Visit the <a href="https://github.com/tamim/python-data-structures">GitHub repository</a> or explore <a href="https://tamimsthinklab.com/">Tamim's ThinkLab</a>.</p>
+        </footer>
       </main>
     </div>
   </body>

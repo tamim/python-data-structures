@@ -94,3 +94,7 @@ layout: home
     </span>
   </a>
 </div>
+
+## Feedback
+
+If you spot an issue, want to suggest an improvement, or want to share this series with students, you can visit the <a href="https://github.com/tamim/python-data-structures">GitHub repository</a> or explore <a href="https://tamimsthinklab.com/">Tamim's ThinkLab</a>.
