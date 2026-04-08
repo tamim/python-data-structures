@@ -4,3 +4,4 @@
 AGENTS.md
 series-plan.md
 !_includes/*.html
+!_layouts/*.html

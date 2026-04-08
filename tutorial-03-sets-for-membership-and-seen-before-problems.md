@@ -1,6 +1,7 @@
 ---
 title: Tutorial 3: Sets for Membership and Seen-Before Problems
 permalink: /tutorial-03/
+layout: default
 prev_title: Tutorial 2: A List Crime Scene: When Familiar Code Leads to TLE
 prev_url: /tutorial-02/
 next_title: Tutorial 4: Dictionaries for Counting and Lookup

@@ -1,6 +1,7 @@
 ---
 title: Full Tutorial Series
 permalink: /full-series/
+layout: default
 ---
 
 A merged file generated from the tutorial chapters.

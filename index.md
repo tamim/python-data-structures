@@ -1,6 +1,7 @@
 ---
 title: Choosing the Right Data Structure in Python
 permalink: /
+layout: home
 ---
 
 <section class="landing-hero">

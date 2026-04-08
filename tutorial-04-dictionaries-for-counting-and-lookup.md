@@ -1,6 +1,7 @@
 ---
 title: Tutorial 4: Dictionaries for Counting and Lookup
 permalink: /tutorial-04/
+layout: default
 prev_title: Tutorial 3: Sets for Membership and Seen-Before Problems
 prev_url: /tutorial-03/
 next_title: Tutorial 5: defaultdict for Cleaner Patterns
