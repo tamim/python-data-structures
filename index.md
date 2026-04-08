@@ -1,5 +1,6 @@
 ---
 title: Choosing the Right Data Structure in Python
+permalink: /
 ---
 
 *A short tutorial series about judgement, problem-solving, and choosing the right structure before you code.*
@@ -32,13 +33,15 @@ The core message running through the tutorials is this:
 
 ## Table of Contents
 
-1. [Tutorial 1: What Lists Are Actually For](tutorial-01-what-lists-are-actually-for.html)
-2. [Tutorial 2: A List Crime Scene: When Familiar Code Leads to TLE](tutorial-02-a-list-crime-scene-when-familiar-code-leads-to-tle.html)
-3. [Tutorial 3: Sets for Membership and Seen-Before Problems](tutorial-03-sets-for-membership-and-seen-before-problems.html)
-4. [Tutorial 4: Dictionaries for Counting and Lookup](tutorial-04-dictionaries-for-counting-and-lookup.html)
-5. [Tutorial 5: `defaultdict` for Cleaner Patterns](tutorial-05-defaultdict-for-cleaner-patterns.html)
-6. [Tutorial 6: Choosing the Right Tool Before You Code](tutorial-06-choosing-the-right-tool-before-you-code.html)
+<ol class="toc-list">
+  <li><a href="{{ '/tutorial-01/' | relative_url }}">Tutorial 1: What Lists Are Actually For</a></li>
+  <li><a href="{{ '/tutorial-02/' | relative_url }}">Tutorial 2: A List Crime Scene: When Familiar Code Leads to TLE</a></li>
+  <li><a href="{{ '/tutorial-03/' | relative_url }}">Tutorial 3: Sets for Membership and Seen-Before Problems</a></li>
+  <li><a href="{{ '/tutorial-04/' | relative_url }}">Tutorial 4: Dictionaries for Counting and Lookup</a></li>
+  <li><a href="{{ '/tutorial-05/' | relative_url }}">Tutorial 5: `defaultdict` for Cleaner Patterns</a></li>
+  <li><a href="{{ '/tutorial-06/' | relative_url }}">Tutorial 6: Choosing the Right Tool Before You Code</a></li>
+</ol>
 
 ## Full Text
 
-If you want the full combined version in one page, read [Full Tutorial Series](full-tutorial-series.html).
+If you want the full combined version in one page, read [Full Tutorial Series]({{ '/full-series/' | relative_url }}).

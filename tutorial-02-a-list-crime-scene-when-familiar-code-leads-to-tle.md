@@ -1,6 +1,13 @@
 ---
 title: Tutorial 2: A List Crime Scene: When Familiar Code Leads to TLE
+permalink: /tutorial-02/
+prev_title: Tutorial 1: What Lists Are Actually For
+prev_url: /tutorial-01/
+next_title: Tutorial 3: Sets for Membership and Seen-Before Problems
+next_url: /tutorial-03/
 ---
+
+{% include chapter-nav.html position="top" %}
 
 ## 1. What this tutorial is about
 
@@ -293,3 +300,5 @@ Suggested answers:
 1. Membership or seen-before tracking.
 2. Because Python may scan through the list item by item each time.
 3. Because repeated middle edits can force lots of shifting and make the solution both messy and slow.
+
+{% include chapter-nav.html %}

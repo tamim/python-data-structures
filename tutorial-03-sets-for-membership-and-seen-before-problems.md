@@ -1,6 +1,13 @@
 ---
 title: Tutorial 3: Sets for Membership and Seen-Before Problems
+permalink: /tutorial-03/
+prev_title: Tutorial 2: A List Crime Scene: When Familiar Code Leads to TLE
+prev_url: /tutorial-02/
+next_title: Tutorial 4: Dictionaries for Counting and Lookup
+next_url: /tutorial-04/
 ---
+
+{% include chapter-nav.html position="top" %}
 
 ## 1. What this tutorial is about
 
@@ -323,3 +330,5 @@ Suggested answers:
 3. It fails because lists are not hashable. A tuple like `(2, 5)` is often the right replacement.
 
 The next big question after membership is counting and lookup. That is where dictionary thinking becomes the better fit.
+
+{% include chapter-nav.html %}

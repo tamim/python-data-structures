@@ -3,3 +3,4 @@
 *.pdf
 AGENTS.md
 series-plan.md
+!_includes/*.html

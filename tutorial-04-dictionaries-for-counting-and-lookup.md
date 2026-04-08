@@ -1,6 +1,13 @@
 ---
 title: Tutorial 4: Dictionaries for Counting and Lookup
+permalink: /tutorial-04/
+prev_title: Tutorial 3: Sets for Membership and Seen-Before Problems
+prev_url: /tutorial-03/
+next_title: Tutorial 5: defaultdict for Cleaner Patterns
+next_url: /tutorial-05/
 ---
+
+{% include chapter-nav.html position="top" %}
 
 ## 1. What this tutorial is about
 
@@ -323,3 +330,5 @@ Suggested answers:
 1. Because the real job is value -> count.
 2. It updates the count for `x`, using `0` if `x` is not already in the dictionary.
 3. It fails because lists are not hashable. A tuple like `(3, 4)` is often the right replacement.
+
+{% include chapter-nav.html %}

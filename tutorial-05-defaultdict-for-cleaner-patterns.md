@@ -1,6 +1,13 @@
 ---
 title: Tutorial 5: defaultdict for Cleaner Patterns
+permalink: /tutorial-05/
+prev_title: Tutorial 4: Dictionaries for Counting and Lookup
+prev_url: /tutorial-04/
+next_title: Tutorial 6: Choosing the Right Tool Before You Code
+next_url: /tutorial-06/
 ---
+
+{% include chapter-nav.html position="top" %}
 
 ## 1. What this tutorial is about
 
@@ -306,3 +313,5 @@ Suggested answers:
 1. Because missing keys start at `0`, so `freq[x] += 1` works cleanly.
 2. It removes the repeated “if key not in dictionary, create an empty list” step.
 3. Accessing a missing key can create it automatically.
+
+{% include chapter-nav.html %}

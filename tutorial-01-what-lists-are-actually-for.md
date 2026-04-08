@@ -1,6 +1,11 @@
 ---
 title: Tutorial 1: What Lists Are Actually For
+permalink: /tutorial-01/
+next_title: Tutorial 2: A List Crime Scene
+next_url: /tutorial-02/
 ---
+
+{% include chapter-nav.html position="top" %}
 
 If you already know Python lists, it is easy to use them for almost everything.
 
@@ -268,3 +273,5 @@ Suggested answers:
 1. Order matters, and you can access a position by index.
 2. Because duplicates must be kept, and the values still need to stay in a sortable sequence.
 3. Because you need to compare neighbouring positions in the sequence.
+
+{% include chapter-nav.html %}

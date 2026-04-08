@@ -1,6 +1,11 @@
 ---
 title: Tutorial 6: Choosing the Right Tool Before You Code
+permalink: /tutorial-06/
+prev_title: Tutorial 5: defaultdict for Cleaner Patterns
+prev_url: /tutorial-05/
 ---
+
+{% include chapter-nav.html position="top" %}
 
 ## 1. What this tutorial is about
 
@@ -228,3 +233,5 @@ Suggested answers:
 2. Membership or seen-before tracking. That should suggest a set, often with tuples like `(r, c)`.
 3. Because one value may need to link to many positions, which is dictionary-shaped rather than sequence-shaped. `defaultdict(list)` is a clean fit.
 4. “Am I using awkward list code because I chose the wrong tool?”
+
+{% include chapter-nav.html %}

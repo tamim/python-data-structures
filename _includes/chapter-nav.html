@@ -1,0 +1,12 @@
+<nav class="chapter-nav{% if include.position == 'top' %} chapter-nav-top{% endif %}" aria-label="Chapter navigation">
+  <div class="chapter-nav-grid">
+    <a class="chapter-link chapter-link-home" href="{{ '/' | relative_url }}">Contents</a>
+    <a class="chapter-link chapter-link-full" href="{{ '/full-series/' | relative_url }}">Full Series</a>
+    {% if page.prev_url %}
+    <a class="chapter-link chapter-link-prev" href="{{ page.prev_url | relative_url }}">Previous: {{ page.prev_title }}</a>
+    {% endif %}
+    {% if page.next_url %}
+    <a class="chapter-link chapter-link-next" href="{{ page.next_url | relative_url }}">Next: {{ page.next_title }}</a>
+    {% endif %}
+  </div>
+</nav>
