@@ -1,8 +1,8 @@
 ---
-title: Tutorial 1: What Lists Are Actually For
+title: "Tutorial 1: What Lists Are Actually For"
 permalink: /tutorial-01/
 layout: default
-next_title: Tutorial 2: A List Crime Scene
+next_title: "Tutorial 2: A List Crime Scene"
 next_url: /tutorial-02/
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Full Tutorial Series
+title: "Full Tutorial Series"
 permalink: /full-series/
 layout: default
 ---

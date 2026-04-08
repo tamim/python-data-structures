@@ -1,10 +1,10 @@
 ---
-title: Tutorial 5: defaultdict for Cleaner Patterns
+title: "Tutorial 5: defaultdict for Cleaner Patterns"
 permalink: /tutorial-05/
 layout: default
-prev_title: Tutorial 4: Dictionaries for Counting and Lookup
+prev_title: "Tutorial 4: Dictionaries for Counting and Lookup"
 prev_url: /tutorial-04/
-next_title: Tutorial 6: Choosing the Right Tool Before You Code
+next_title: "Tutorial 6: Choosing the Right Tool Before You Code"
 next_url: /tutorial-06/
 ---
 

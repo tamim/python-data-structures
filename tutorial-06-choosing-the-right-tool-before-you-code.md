@@ -1,8 +1,8 @@
 ---
-title: Tutorial 6: Choosing the Right Tool Before You Code
+title: "Tutorial 6: Choosing the Right Tool Before You Code"
 permalink: /tutorial-06/
 layout: default
-prev_title: Tutorial 5: defaultdict for Cleaner Patterns
+prev_title: "Tutorial 5: defaultdict for Cleaner Patterns"
 prev_url: /tutorial-05/
 ---
 

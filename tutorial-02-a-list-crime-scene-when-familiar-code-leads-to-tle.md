@@ -1,10 +1,10 @@
 ---
-title: Tutorial 2: A List Crime Scene: When Familiar Code Leads to TLE
+title: "Tutorial 2: A List Crime Scene: When Familiar Code Leads to TLE"
 permalink: /tutorial-02/
 layout: default
-prev_title: Tutorial 1: What Lists Are Actually For
+prev_title: "Tutorial 1: What Lists Are Actually For"
 prev_url: /tutorial-01/
-next_title: Tutorial 3: Sets for Membership and Seen-Before Problems
+next_title: "Tutorial 3: Sets for Membership and Seen-Before Problems"
 next_url: /tutorial-03/
 ---
 
